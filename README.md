@@ -97,7 +97,7 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o yarn o
   ❯ npm install 
 
   # Iniciar o projeto
-  ❯ npm run 
+  ❯ npm start 
 ```
 
 ---
