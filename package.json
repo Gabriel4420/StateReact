@@ -11,7 +11,7 @@
     "@types/react-dom": "^17.0.0",
     "ansi-html": "^0.0.7",
     "chokidar": "2.1.8",
-    "glob-parent": "^3.1.0",
+    "glob-parent": "^5.1.2",
     "immer": "9.0.6",
     "is-svg": "^4.3.0",
     "postcss-svgo": "4.0.2",
